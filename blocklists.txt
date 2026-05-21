@@ -9845,7 +9845,6 @@ aax-us-east-retail-direct.amazon-adsystem.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
-aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
@@ -13282,9 +13281,6 @@ adnxtr.com
 adnz.co
 ado.pro-market.net
 ado.wish-best.com
-adobe-analytics-dc.belastingdienst.nl
-adobe-analytics-dc.douane.nl
-adobe-analytics-dc.fiod.nl
 adobe-dev-landingpageprefix.descubre.interbank.pe
 adobe-dtm.staticsfly.com
 adobe-ep.cms.gov
@@ -16326,6 +16322,7 @@ advantagesblareseizure.com
 advantagesclotblend.com
 advantagesresponse.com
 advard.com
+advariant.com
 advarkads.com
 advast.sibnet.ru
 advbanners.global.ssl.fastly.net
@@ -19239,6 +19236,7 @@ alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
+allfail-www.east.adadvisor.net
 allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
@@ -20011,6 +20009,7 @@ amspbs.com
 amsterdamian.com
 amsterdamian.net
 amsterdamian.org
+amsung.com
 amt.audio-mobil.com
 amt3.com
 amtmf.alphforge.com
@@ -25654,6 +25653,7 @@ app.response.blackbaud.com
 app.response.cetera.com
 app.response.firstdata.com
 app.response.hanover.com
+app.response.hartford.edu
 app.response.hslda.org
 app.response.integratelecom.com
 app.response.intergraph.com
@@ -26802,6 +26802,7 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
+as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -29521,7 +29522,6 @@ backlink.ir
 backlinkdino.de
 backlinks.com
 backmerriment.com
-backname.io
 backocuntry.pxf.io
 backoffice.aurum.foundation
 backoffice.verintsystemsinc.com
@@ -33678,7 +33678,6 @@ boldmetrics.io
 boldscratch.com
 boleto-uno.mx
 bolfep.prospin.com.br
-bolha.alphatecbr.com
 bolha.consuladoracao.com.br
 bolha.drthiagopereira.com.br
 bolha.fabulosalizz.com.br
@@ -52986,7 +52985,6 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
-data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -55792,7 +55790,6 @@ delivery.pryzmads.com
 delivery.redpineapplemedia.com
 delivery.revive-adserver.com
 delivery.senvangvn.com
-delivery.sexyxxx.biz
 delivery.staging.trafficjunky.net
 delivery.steelhousemedia.com
 delivery.swid.switchadhub.com
@@ -60134,6 +60131,7 @@ dvjkexyijbjbg.site
 dvjqvdfujjvvkuyvhjqdvbjcmioljbhjmijq.s3.ap-northeast-1.amazonaws.com
 dvjxk947e.com
 dvkog.ddreamdate.com
+dvkog.imkirt1.life
 dvkxhbcrrrrut.online
 dvl8xapgpqgc1.cloudfront.net
 dvlabs.com
@@ -62181,6 +62179,7 @@ eg.fewerdinder.shop
 eg.gabbierbhoosa.com
 eg.nigelnursed.com
 eg.nytimes.com
+eg719pc8yiruec.cfd
 egadvertising.com
 egain.com
 egalitysarking.com
@@ -65206,6 +65205,7 @@ eu-static.load.exelator.com
 eu-stsdk.vivoglobal.com
 eu-survey.com
 eu-timesync.vivoglobal.com
+eu-tlx.3lift.com
 eu-u.openx.net
 eu-v10.events.data.microsoft.com
 eu-v20.events.data.microsoft.com
@@ -68264,6 +68264,7 @@ ferret.firstprogressivechurch.org
 ferret.helpspace.com
 ferret.jesper.hk
 ferret.linksoftwarellc.com
+ferricvalvula.cyou
 ferrisoisin.com
 ferritegathers.com
 ferroviedellostatosp.tt.omtrdc.net
@@ -69043,6 +69044,7 @@ findanonymous.com
 findapi.micloud.xiaomi.net
 findbestop.com
 findbetterresults.com
+findcommerce.com
 findcompere.com
 findcouponspromos.com
 finddateforyou.com
@@ -71224,7 +71226,6 @@ free-sdk.net
 free-shape.pro
 free-site.ir
 free-surfers.com
-free-website-hit-counters.com
 free.goingto.site
 free.srcdn.xyz
 free33.com
@@ -71705,7 +71706,6 @@ fszvo.kidsfootlocker.com
 ft-flower.com
 ft-sentry-i.hetangsmart.com
 ft.bkprtiqueur.shop
-ft.com
 ft.coynessdeltic.com
 ft.freetoursbyfoot.com
 ft.funninglimpers.com
@@ -74042,6 +74042,7 @@ gfoqmtwpoodsy.space
 gforanythingamgl.com
 gforat.grahambrown.com
 gforthemoonheap.org
+gfpihhhjhfqtq.website
 gfpxw.com
 gfqhvj.wunderkarten.de
 gfstrck.com
@@ -75219,6 +75220,7 @@ gnshwf.room-park.ru
 gnsnpaw.com
 gnutplhbojrfe.site
 gnuzwzdkplpqu.space
+gnvbttfgyf.com
 gnvpzgnvkvnfn.website
 gnway.net
 gnxfrlfjfbvel.website
@@ -76529,6 +76531,7 @@ gqssj.dukesweightloss.com.au
 gqtyh.freshscents.com
 gqwu.cn
 gqxgrffjsyviu.space
+gqxnakkuauizs.website
 gqxwfhe7o.com
 gr-business.vodafone.com
 gr-go.experian.com
@@ -91342,6 +91345,7 @@ isx.unity3d.com
 isy.chez-pierre.com
 isyght.lensa.ro
 isypmogfhabmp.space
+isyvthevofuer.space
 iszbchgvidvhw.space
 iszrrgjxekmas.website
 isztpjhceyoir.site
@@ -110495,6 +110499,7 @@ materialsadditionalstrawberries.com
 mateti.net
 mateysnates.qpon
 mathads.com
+mathcountryside.com
 mathematicsefficiencyburnt.com
 mathematicswhineconvene.com
 matheranalytics.com
@@ -111850,6 +111855,7 @@ mediaffiliation.com
 mediaforce.com
 mediaforge.com
 mediafuse.com
+mediagauge.com
 mediageneral.com
 mediaget.com
 mediaglacier.com
@@ -111934,6 +111940,7 @@ mediatraffic.com
 mediatraffic.com.ua
 mediatrafficagency.com
 mediatroopers.g2afse.com
+mediav.co
 mediav.com
 mediavenus.com
 mediaview.co.kr
@@ -112297,7 +112304,6 @@ mentionedfancied.com
 mentionedimpostercalory.com
 mentionideablit.com
 mentiopportal.org
-mentolflixs.com
 mentor.adrianscalper.com
 mentor.direitocomprado.com.br
 mentor.fatimafinanzas.com
@@ -123683,7 +123689,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -132981,7 +132986,6 @@ pessimisticextra.com
 pessimisticmachine.com
 pessimisticpester.com
 pessimisticsurpriseexclusively.com
-pesteroverwork.com
 pesterpolling.cyou
 pestersecondlyoak.com
 pestholy.com
@@ -135754,6 +135758,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -144417,7 +144422,6 @@ rcm-fe.amazon-adsystem.com
 rcm-fr.amazon.fr
 rcm-jp.amazon.co.jp
 rcm-na.amazon-adsystem.com
-rcm-na.amazon-adsystems.com
 rcm.amazon.com
 rcm.rambler.ru
 rcm.shinobi.jp
@@ -150485,7 +150489,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -161261,7 +161264,6 @@ shoptruongstar.com
 shoptule.com
 shopvalorant.weebly.com
 shopvanduc.com
-shopvethan.com
 shopviplq.com
 shopvxt.com
 shopwss.evergage.com
@@ -165696,6 +165698,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -171336,13 +171339,11 @@ ss.remove.no
 ss.renaissanceathome.co.uk
 ss.rencykel.dk
 ss.renewatcornell.com
-ss.renewbelcamp.com
 ss.renewcentennial.com
 ss.renewdurham.com
 ss.renewflagstaffeast.com
 ss.renewfoothills.com
 ss.renewfoundrycentre.com
-ss.renewharford.com
 ss.renewhowardcrossing.com
 ss.renewmidtown.com
 ss.renewnewportnews.com
@@ -178017,7 +178018,6 @@ stape.inspiracaosagrada.com
 stape.instaarttemplates.com
 stape.instalkeia.com
 stape.instituto42.com.br
-stape.institutoagalma.com.br
 stape.institutoalena.com.br
 stape.institutocristao.online
 stape.institutodrbrunolage.com.br
@@ -179053,7 +179053,6 @@ stape.tearpaulista.com.br
 stape.tech
 stape.techdrop.news
 stape.tecimob.com.br
-stape.teclado.melodiaseriffs.com.br
 stape.tecladonapratica.com.br
 stape.tecladoraiz.com
 stape.tecnolokid.com.br
@@ -180667,7 +180666,6 @@ stats.askmen.com
 stats.asortiz.com
 stats.asp24.pl
 stats.assets.video
-stats.astrr.ru
 stats.avaaz.org
 stats.avast.com
 stats.avastbrowser.com
@@ -182002,7 +182000,6 @@ store.xiaohongshu.com
 store4porn.com
 storea8tracking.alc.co.jp
 storeconfig.mistat.intl.xiaomi.com
-storeconfig.mistat.xiaomi.com
 storedl3f.nearme.com.cn
 storeen.ldmnq.com
 storefront.nr-assets.net
@@ -183042,6 +183039,7 @@ suhfnjm.com
 suicidalruse.com
 suicideispreventable.org
 suiformupdrink.cyou
+suijidaohxl.top
 suipqsqihrccz.online
 suitablecondemntin.com
 suitablepartner.life
@@ -190358,7 +190356,6 @@ tnc100-useast1a.tiktokv.com
 tnc100-useast2a.tiktokv.com
 tnc16-alisg.byteoversea.com
 tnc16-alisg.isnssdk.com
-tnc16-normal-ie.tiktokv.eu
 tnc16-normal-no1a.tiktokv.eu
 tnc16-normal-us-ttp.capcutapi.us
 tnc16-normal-useast5.tiktokv.us
@@ -199112,6 +199109,7 @@ ulptq.1mbreakthrough.com
 ulqhhlhpevvif.space
 ulqlijlriiclv.online
 ulrro.cleanskinclub.com
+ulsensor.com
 ulsgwwmkafdqa.website
 ulslc.happysocks.com
 ulspj.defendershield.com
@@ -205250,6 +205248,7 @@ w1irjtvdt4.com
 w1thy0u.com
 w2528.com
 w2j4kdjma.com
+w2q5p09n8.com
 w2t2ft6zl1zbivnu9emoizw.cfd
 w3-reporting-csp.reddit.com
 w3-reporting-nel.reddit.com
@@ -206330,7 +206329,6 @@ web.fe-vrier.com
 web.feuer-zeug.at
 web.frl-anna.at
 web.halwa2.naturalveshoz.com
-web.hammacher.com
 web.health.memorialcare.org
 web.healthcare.northbay.org
 web.healthnews.thechristhospital.com
@@ -206811,7 +206809,6 @@ webramz.com
 webredirect.org
 webreseau.com
 webrus.net
-webs.hammacher.com
 websafety.online
 websanalytic.com
 websc.org
@@ -208422,6 +208419,7 @@ wldyhwenmkmcv.website
 wleallwqybqov.top
 wleallwqybzkw.top
 wlemdl1yx.com
+wlenvxptc.com
 wlfmddrbvkocw.site
 wlfslsqfinhtp.website
 wlg.shinhancard.com
@@ -210750,6 +210748,7 @@ www.msmithguitarstudio.com
 www.msmpokergamer.com
 www.multiceps.com
 www.muni360.com
+www.my-baby.co.il
 www.myadsystem.com
 www.myalegent07.com
 www.myandroid.org
@@ -215114,6 +215113,7 @@ ykq9vm6e4u43lnj.cfd
 ykqapk.aboutyou.si
 ykrabkjoqurvl.online
 ykrsorluybndt.website
+yktcrkwxeutyvd.com
 yktfx.aariclothing.com
 yktj.yzz.cn
 ykubfwztpzpvg.website
