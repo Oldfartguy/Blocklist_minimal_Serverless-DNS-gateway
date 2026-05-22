@@ -10011,6 +10011,7 @@ ads.netsol.com
 ads.networksolutions.com
 ads.networkwcs.net
 ads.newdb.mtp.pl
+ads.newgrounds.com
 ads.newmedia.cz
 ads.newsbook.com.mt
 ads.newsint.co.uk
@@ -14396,7 +14397,6 @@ alleviatepracticableaddicted.com
 alleycranealoof.com
 alleygoat.com
 allfail-all.adadvisor.net
-allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
@@ -17033,7 +17033,6 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -30856,7 +30855,6 @@ cbdatatracker.com
 cbdedibles.site
 cbdm.weathercn.com
 cbembusgcl.com
-cben1.net
 cberj.fellowproducts.com
 cbff1ao9.xyz
 cbfnid.dr-g.co.kr
@@ -44943,6 +44941,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -47272,6 +47271,7 @@ deutschebahn.sc.omtrdc.net
 deutschebankag.tt.omtrdc.net
 deuxseethe.com
 deuymi.cozykids.gr
+dev-adblocker.workers.dev
 dev-adload.skyadsmart.com
 dev-apigw.samsungdmroute.com
 dev-applovin.com
@@ -60796,6 +60796,7 @@ fyhsat.fmiligrama.com.br
 fyiqplqdkhdgl.site
 fyiygeowufqxk.site
 fykqm.sqairz.com
+fylfotswindjamteise.qpon
 fympiumlrnotc.space
 fynox.xyz
 fynuparszvqsd.space
@@ -63584,6 +63585,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -81576,6 +81578,7 @@ koawfitxqieyj.site
 kobel.services
 kobetu.grand1corp.com
 kobjs.sokolovelaw.com
+kobpyeygug.com
 kochava.com
 kocmg.com
 kodaguwhymouzah.cyou
@@ -104685,6 +104688,7 @@ ng2y405w3y.com
 ng3.ads.warnerbros.com
 ngabq7df9.com
 ngacm.com
+ngads.com
 ngadverts.com
 ngaffn.itokin.net
 ngageics.com
@@ -114080,7 +114084,6 @@ paxsfiss.com
 paxtrz.dreamplacehotels.com
 paxxfiss.com
 paxzslunbisvh.online
-pay-ads.com
 pay-click.ru
 pay-hit.com
 pay.com
@@ -115423,6 +115426,7 @@ ping.instantsearchplus.com
 ping.paidy.com
 ping.pdst.fm
 ping.pinyin.sogou.com
+ping.reg.pf-d.ca
 ping.staticmoly.me
 ping.taplytics.com
 ping.texastribune.org
@@ -117222,6 +117226,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 post.xmlpost.xyz
@@ -125077,6 +125082,7 @@ rbnvpy.klingel.at
 rbosr.lull.com
 rbp-gen1.site
 rbparks.sskarta.ru
+rbpibybluolfuo.com
 rbpksavddouil.store
 rbptt.com
 rbqcg6g.de
@@ -130558,6 +130564,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -145011,6 +145018,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -148548,6 +148556,7 @@ squjvr.modamerve.com
 sqvnf.sneakerpolitics.com
 sqwo.top
 sqxbojbkjdved.online
+sqxydecyev.com
 sqybrgc6.xyz
 sqzfj.landmarkathletics.com
 sqzoyfdzlcaoy.site
@@ -151567,7 +151576,6 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
-sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -171923,7 +171931,6 @@ tracking.byggindustrin.se
 tracking.c.mercedes-benz.co.in
 tracking.c.mercedes-benz.com.cn
 tracking.c.mercedes-benz.de
-tracking.caffecorretto.ro
 tracking.campaigns.drax.com
 tracking.candiceverbist.be
 tracking.capitalbank.jo
@@ -172532,7 +172539,6 @@ tracking.presswayy.com
 tracking.prismpartner.smt.docomo.ne.jp
 tracking.prmtracking.com
 tracking.prodiga.no
-tracking.produse-moldovenesti.ro
 tracking.profource.com
 tracking.project2deal.com
 tracking.propellerads.com
@@ -178001,6 +178007,7 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
+users.51.la
 users.cuci.nl
 users.luckycrush.live
 users.quantumgraph.com
@@ -179314,6 +179321,7 @@ varshacundy.com
 varsitytutors.pxf.io
 vartoken.com
 varun.fullleafteacompany.com
+varvelunwagedwair.qpon
 varyingwolfsmile.com
 varypollintelligent.com
 varyresponsible.com
@@ -182949,7 +182957,6 @@ web.connect.garnethealth.org
 web.consolid8.com.au
 web.delighted.com
 web.diebayerische.de
-web.e.aldermore.co.uk
 web.e.lotteryoffice.com.au
 web.e.obayaty.com
 web.e.panmacmillan.com
@@ -192320,7 +192327,6 @@ zeydoo.com
 zezxeuydapept.site
 zezyjywaaqzke.top
 zfamagnky.com
-zfavpfjondwmnr.com
 zfaxahmcus.com
 zfc2ul88s.top
 zfcbuhkbpmbwy.space
