@@ -22043,7 +22043,6 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
-analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopgoodgrief.com
@@ -26801,7 +26800,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -32842,7 +32840,6 @@ blazeteamlow.com
 blazingserver.net
 blcdog.com
 blcknvr.com
-bld.mobi
 bldgscrewedrestrip.cyou
 bldkgmtnesbfp.site
 bldklgxmbfemy.online
@@ -39095,7 +39092,6 @@ cdn.spnut.com
 cdn.sportlabs.online
 cdn.spotscenered.info
 cdn.spotxcdn.com.edgekey.net
-cdn.spotxchange.com
 cdn.sprida.se
 cdn.sprig.com
 cdn.srxy.xyz
@@ -47212,6 +47208,7 @@ cryptosplash.care
 cryptostreamstv.com
 cryptotrials.care
 cryptotyc.care
+cryptousawallet.com
 cryptovoorchristenen.nl
 cryptowheel.net
 cryptowisser.com
@@ -52950,6 +52947,7 @@ data.comunicaciones.motomundohn.com
 data.comunicaciones.santander.cl
 data.comunicaciones.santander.com.ar
 data.comunicaciones.slacorporation.com
+data.comunicaciones.solvenza.hn
 data.comunicaciones.sportline.com
 data.comunicaciones.tengo.hn
 data.comunicats.3cat.cat
@@ -53509,6 +53507,7 @@ data.info.rico.com.vc
 data.info.sbh.no
 data.info.singaporeoceanarium.com
 data.info.smart.com
+data.info.solvenza.hn
 data.info.venetianlasvegas.com
 data.info.viking.com
 data.info.xpempresas.com.br
@@ -59427,7 +59426,6 @@ drvdb9rcebidk.cloudfront.net
 drven.kintsugihair.com
 drvive.lamoda.ru
 drwfkzlumcyob.space
-drwoodworth.com
 drxeqq.wishhotels.com.br
 dry-version.pro
 dryasdyeweed.cyou
@@ -60883,7 +60881,6 @@ e7cod.com
 e7d46466e8.f4f0e4093e.com
 e7e0addf05.com
 e7klgi9y.com
-e810.cn
 e8370630f3.com
 e86ee537fe.com
 e87fe95e48.c19ef6cf49.com
@@ -75470,6 +75467,7 @@ go.imkirh.com
 go.infineon.com
 go.info.alliant.com
 go.info.alliantfoundation.com
+go.info.solvenza.hn
 go.info.verifi.com
 go.infopulse.com
 go.infor.com
@@ -99076,7 +99074,6 @@ lininsaurist.cyou
 linjiang.com.cn
 link-ag.net
 link-booster.de
-link-buy.ru
 link-empfehlen24.de
 link-medias.com
 link-service.net
@@ -123613,7 +123610,6 @@ nybjwktlrcwca.site
 nybkctzmldnye.space
 nybrz.loonmtn.com
 nyc25.com
-nyceov.life.ru
 nychi2.outbrain.com
 nychi2.outbrain.org
 nycjuaeiuzhxe.site
@@ -150401,7 +150397,6 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
-s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -165632,7 +165627,6 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
-smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -172516,6 +172510,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -182968,7 +182963,6 @@ suhfnjm.com
 suicidalruse.com
 suicideispreventable.org
 suiformupdrink.cyou
-suijidaohxl.top
 suipqsqihrccz.online
 suitablecondemntin.com
 suitablepartner.life
@@ -189620,7 +189614,6 @@ tizerclik.com
 tizerfly.net
 tizermine.net
 tizermy.net
-tizernaya-reklama.ru
 tizlpifaxm.com
 tizofvtuqo.com
 tizru.com
@@ -190690,7 +190683,6 @@ top-bloggers.com
 top-chaude.com
 top-fwz1.mail.ru
 top-js-metrics.top.my.ua
-top-official-app.com
 top-performance.work
 top-ro.ro
 top-shop.ru
@@ -200674,7 +200666,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.alumnusairglow.rest
 users.cuci.nl
 users.luckycrush.live
@@ -209599,6 +209590,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
