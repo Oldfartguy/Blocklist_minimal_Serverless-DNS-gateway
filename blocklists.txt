@@ -9911,6 +9911,7 @@ aax-us-east-retail-direct.amazon-adsystem.com
 aax-us-east-rtb-adx.amazon-adsystem.com
 aax-us-east-rtb.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-pdx-rtb-adx.amazon-adsystem.com
 aax-us-pdx-rtb.amazon-adsystem.com
 aax-us-pdx.amazon-adsystem.com
 aax-us-west.amazon-adsystem.com
@@ -19319,6 +19320,7 @@ alleygoat.com
 allfail-all.adadvisor.net
 allfail-www.all.adadvisor.net
 allfail-www.east.adadvisor.net
+allfail-www.west.adadvisor.net
 allfreecounter.com
 allheart.evergage.com
 allhoney.pro
@@ -20383,7 +20385,6 @@ analytics-collect.karakuri.ai
 analytics-collection.submittable.com
 analytics-collector.brame-gamification.com
 analytics-collector.flowcode.com
-analytics-conomi.line.me
 analytics-dal-nfl.yinzcam.com
 analytics-data.io
 analytics-dataplane.invideo.io
@@ -22143,6 +22144,7 @@ analytics.sexlikereal.com
 analytics.sgnapps.com
 analytics.shareaholic.com
 analytics.shein.com
+analytics.shephertz.com
 analytics.shift.agency
 analytics.shop.hisense.com
 analytics.shopedia.com
@@ -26918,7 +26920,6 @@ as-i4.com.cn
 as-ms-pro-loadbala-sugvjp2xlhjz-1716713284.eu-west-1.elb.amazonaws.com
 as-sec.casalemedia.com
 as-tlx.3lift.com
-as-tm.everesttech.net
 as.ad-brix.com
 as.ad4m.at
 as.adfonic.net
@@ -38375,6 +38376,7 @@ cc.xwscg.com
 cc15d76182.3da002f0ff.com
 cc1ej6d0e.com
 cc2.camcaps.io
+cc2.sys.intl.xiaomi.com
 cc2.sys.miui.com
 cc33b86bbf.com
 cc38229b6c.com
@@ -120710,6 +120712,7 @@ nbpczr.icu
 nbqeoezniykhm.space
 nbraenkikrn.com
 nbrngg.rinkaiseminar.co.jp
+nbryb.com
 nbsdi.minisplitsystemsdirect.com
 nbsdk-baichuan.alicdn.com
 nbsdk-baichuan.taobao.com
@@ -131438,7 +131441,6 @@ paneclattermetal.com
 panel-cn.com
 panel.adsaro.com
 panel.bcnmonetize.com
-panel.gemius.com.ua
 panel.ioam.de
 panel.smartpoint.pro
 panelghostscontractor.com
@@ -135199,6 +135201,7 @@ play.funfourmob.com
 play.funspace.fr
 play.leadzu.com
 play.milly-style.co.il
+play.nbryb.com
 play.rooski.net
 play.selectmedia.asia
 play.showheroes.com
@@ -136285,6 +136288,7 @@ post.update.ap.lijit.com
 post.update.fbsbx.com
 post.update.indexww.com
 post.update.moatads.com
+post.update.spotxchange.com
 post.update.wo.gumgum.com
 post.xapads.com
 postadverts.com
@@ -144925,6 +144929,7 @@ rcm-fe.amazon-adsystem.com
 rcm-fr.amazon.fr
 rcm-jp.amazon.co.jp
 rcm-na.amazon-adsystem.com
+rcm-na.amazon-adsystems.com
 rcm.amazon.com
 rcm.rambler.ru
 rcm.shinobi.jp
@@ -151004,6 +151009,7 @@ s.update.indexww.com
 s.update.moatads.com
 s.update.postimp-ofw.fyber.com
 s.update.rubiconproject.com
+s.update.spotxchange.com
 s.update.wo.gumgum.com
 s.upzone.se
 s.usea01.idio.episerver.net
@@ -166150,6 +166156,7 @@ smetrics.saseurobonusmastercard.no
 smetrics.saseurobonusmastercard.se
 smetrics.sasktel.com
 smetrics.saucony.com.au
+smetrics.saudiairlines.com
 smetrics.savethechildren.org
 smetrics.savethechildren.org.uk
 smetrics.savewithsrpbiz.com
@@ -171079,6 +171086,7 @@ ss.getwavebeam.com
 ss.getwiggydog.com
 ss.getwuffy.com
 ss.gezondheidspot.nl
+ss.ggen.sa
 ss.giantstorage.co.uk
 ss.gifting2go.com
 ss.gildedgoblin.com
@@ -173026,6 +173034,7 @@ sslmetrics.vivint.com
 sslomni.canadiantire.ca
 sslp.vendexcompany.com
 sslph.com
+sslproxy.gateway3advisorgroup-uat.app.ariba-privatwww.thrive-matomo.wdprapps-qaalsengineeringv.hicloudcam.com
 sslsc.sanitas.com
 sslsc.tuifly.com
 sslstatic.yomedia.vn
@@ -190143,6 +190152,7 @@ tj1.staging.mifi.pt.xiaomi.com
 tj1.staging.nfcpay.xiaomi.com
 tj1.staging.pay.xiaomi.com
 tj1.stagingouter.pay.xiaomi.com
+tj1.test.pay.xiaomi.com
 tj1.youzan.com
 tj1.youzanyun.com
 tj3rql9siwef.www.freecodecamp.org
@@ -201200,7 +201210,6 @@ userreplay.com
 userreplay.net
 userreport.com
 userreporting.cloud.unity3d.com
-users.51.la
 users.alumnusairglow.rest
 users.cuci.nl
 users.luckycrush.live
@@ -210139,6 +210148,7 @@ www.ad4game.com
 www.ad4m.at
 www.ad4mat.at
 www.ad4mat.net
+www.adadvisor.net
 www.adalyser.com
 www.adap.tv
 www.adasiaholdings.com
@@ -211138,6 +211148,7 @@ www.nastyrat.com
 www.naturalmovementz.com
 www.naughtymag.com
 www.navdmp.com
+www.nbryb.com
 www.ncaudienceexchange.com
 www.ncsreporting.com
 www.nearestsalon.com
