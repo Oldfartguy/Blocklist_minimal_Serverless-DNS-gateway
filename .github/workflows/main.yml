@@ -53,8 +53,6 @@ jobs:
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/native.xiaomi-onlydomains.txt \
             https://cdn.jsdelivr.net/gh/hagezi/dns-blocklists@latest/wildcard/tif.mini-onlydomains.txt \
             https://raw.githubusercontent.com/Oldfartguy/Oldfartguy-blocklist/refs/heads/main/List.txt \
-            https://raw.githubusercontent.com/bibicadotnet/AdGuard-Home-blocklists/refs/heads/main/byme.txt \
-            https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts \
           | awk '{
               if (/^[[:space:]]*$/ || /^[!#;]/) next
               line = tolower($0)
